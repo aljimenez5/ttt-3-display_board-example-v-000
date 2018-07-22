@@ -2,7 +2,7 @@
 
 def display_board
     a = "'   |   |   '"
-    b = (-----------)
+    b = "-----------"
     puts a
     puts b
     puts a
